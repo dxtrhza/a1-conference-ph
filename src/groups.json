@@ -1,0 +1,12 @@
+{
+    "-KYeuNvDcUX6PNSfNWEv" : {
+      "authors" : [ "jXV6ugDA2WOAVIoNOlpnncsmp0C2", "psHEsoLeHWgUM8ZP2GFgO0kmxgD2" ],
+      "code" : "G-1",
+      "content1" : "This is just a test group",
+      "course" : "-KYe9erY6vwSQBM_nLxA",
+      "slug" : "test-group",
+      "status" : "active",
+      "title" : "Test group",
+      "users" : [ "jXV6ugDA2WOAVIoNOlpnncsmp0C2", "psHEsoLeHWgUM8ZP2GFgO0kmxgD2" ]
+    }
+  }

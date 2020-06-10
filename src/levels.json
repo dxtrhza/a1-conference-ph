@@ -1,0 +1,116 @@
+{
+    "-K_MXHUbZX7hceUIJ4tR" : {
+      "code" : "MEng",
+      "slug" : "l7-master-of-engineering",
+      "status" : "active",
+      "title" : "L7. Master of engineering"
+    },
+    "-K_OhZc6mYqUibv5VEBH" : {
+      "code" : "Course",
+      "slug" : "online-course",
+      "status" : "active",
+      "title" : "Online course"
+    },
+    "-K_OheInTFJ6iwfzaCuW" : {
+      "code" : "HA",
+      "slug" : "l4-higher-apprenticeship",
+      "status" : "active",
+      "title" : "L4. Higher apprenticeship"
+    },
+    "-K_OhhNGHLjPt3Wt_Ab2" : {
+      "code" : "CHE",
+      "slug" : "l4-certificate-of-higher-education",
+      "status" : "active",
+      "title" : "L4. Certificate of higher education"
+    },
+    "-K_OhmOh17VCeosrRuKP" : {
+      "code" : "HNC",
+      "slug" : "l4-higher-national-certificate",
+      "status" : "active",
+      "title" : "L4. Higher national certificate"
+    },
+    "-K_Ohq0OePkXM78j_IL7" : {
+      "code" : "DHE",
+      "slug" : "l5-diploma-of-higher-education",
+      "status" : "active",
+      "title" : "L5. Diploma of higher education"
+    },
+    "-K_OhsM3TKUDoEyvhkhG" : {
+      "code" : "FD",
+      "slug" : "l5-foundation-degree",
+      "status" : "active",
+      "title" : "L5. Foundation degree"
+    },
+    "-K_OhvSdj3j9PvjChVO8" : {
+      "code" : "HND",
+      "slug" : "l5-higher-national-diploma",
+      "status" : "active",
+      "title" : "L5. Higher national diploma"
+    },
+    "-K_Ohy3YQA39iAghjkpq" : {
+      "code" : "BDHons",
+      "slug" : "l6-bachelor-degree-with-honors",
+      "status" : "active",
+      "title" : "L6. Bachelor degree with honors"
+    },
+    "-K_Oi1T4_pOZu_TXEgMi" : {
+      "code" : "BAHons",
+      "slug" : "l6-bachelor-of-the-arts-with-honors",
+      "status" : "active",
+      "title" : "L6. Bachelor of the arts with honors"
+    },
+    "-K_Oi5JrgyFveu6_fZ8Y" : {
+      "code" : "BSc",
+      "slug" : "l6-bachelor-of-science-with-honors",
+      "status" : "active",
+      "title" : "L6. Bachelor of science with honors"
+    },
+    "-K_Oi85TSdmRPAcYohRG" : {
+      "code" : "GD",
+      "slug" : "l6-graduate-certificate",
+      "status" : "active",
+      "title" : "L6. Graduate certificate"
+    },
+    "-K_OiBUn1TfKaYa82zEH" : {
+      "code" : "GD",
+      "slug" : "l6-graduate-diploma",
+      "status" : "active",
+      "title" : "L6. Graduate diploma"
+    },
+    "-K_OiFJJ8ZV0WHj0wRJX" : {
+      "code" : "MA",
+      "slug" : "l7-master-of-arts",
+      "status" : "active",
+      "title" : "L7. Master of arts"
+    },
+    "-K_OiLRGjNUrcYh1NK9l" : {
+      "code" : "MSc",
+      "slug" : "l7-master-of-science",
+      "status" : "active",
+      "title" : "L7. Master of science"
+    },
+    "-K_OiNruVIrNqpRgSd7G" : {
+      "code" : "MD",
+      "slug" : "l7-masters-degree",
+      "status" : "active",
+      "title" : "L7. Masters degree"
+    },
+    "-K_OiQI9Ah9aKA9IJpgb" : {
+      "code" : "PC",
+      "slug" : "l7-postgraduate-certificate",
+      "status" : "active",
+      "title" : "L7. Postgraduate certificate"
+    },
+    "-K_OiSTu2B8q9K1oXskM" : {
+      "code" : "PD",
+      "slug" : "l7-postgraduate-diploma",
+      "status" : "active",
+      "title" : "L7. Postgraduate diploma"
+    },
+    "-K_OiUXdcs7B6FBXFrQF" : {
+      "code" : "D",
+      "slug" : "l8-doctorate",
+      "status" : "active",
+      "title" : "L8. Doctorate"
+    }
+  }

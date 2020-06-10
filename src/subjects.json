@@ -1,0 +1,75 @@
+{
+    "-KYdDowIweDb-Pb-wgOv" : {
+      "code" : "MA1",
+      "content1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula mauris sodales metus sodales, nec pharetra ipsum gravida. Cras malesuada faucibus orci, sit amet sagittis turpis efficitur sed. Aliquam ut dui posuere, vestibulum ex et, posuere diam. Maecenas luctus suscipit turpis id fermentum. Fusce mattis mi erat, nec venenatis ante fringilla id. Aliquam sit amet justo eleifend, varius magna eget, tincidunt velit. Maecenas varius fringilla orci, ut imperdiet odio porta interdum. Aliquam rutrum est id mi pharetra fringilla. Integer vel tempor enim. Maecenas tempus tincidunt neque a eleifend. Suspendisse tempor ante ligula. Maecenas eget ex tortor. Curabitur dapibus dolor eu dapibus ultrices. Curabitur pellentesque massa volutpat, viverra ipsum et, tristique sem. Ut sed ante eu odio iaculis venenatis.\n\nDonec ipsum leo, bibendum eu eros nec, accumsan facilisis velit. Integer cursus sagittis euismod. Nulla quis erat vel neque gravida commodo in at sem. Ut accumsan quam odio, et vehicula velit hendrerit tincidunt. Nunc scelerisque dui vitae enim euismod sagittis. Vivamus nec gravida odio. In lobortis enim non accumsan feugiat.",
+      "credits" : "6",
+      "slug" : "maths-i",
+      "status" : "active",
+      "title" : "Maths I"
+    },
+    "-K_PDRnIogzqrzpisaPH" : {
+      "code" : "ISE",
+      "content1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula mauris sodales metus sodales, nec pharetra ipsum gravida. Cras malesuada faucibus orci, sit amet sagittis turpis efficitur sed. Aliquam ut dui posuere, vestibulum ex et, posuere diam. Maecenas luctus suscipit turpis id fermentum. Fusce mattis mi erat, nec venenatis ante fringilla id. Aliquam sit amet justo eleifend, varius magna eget, tincidunt velit. Maecenas varius fringilla orci, ut imperdiet odio porta interdum. Aliquam rutrum est id mi pharetra fringilla. Integer vel tempor enim. Maecenas tempus tincidunt neque a eleifend. Suspendisse tempor ante ligula. Maecenas eget ex tortor. Curabitur dapibus dolor eu dapibus ultrices. Curabitur pellentesque massa volutpat, viverra ipsum et, tristique sem. Ut sed ante eu odio iaculis venenatis.\n\nDonec ipsum leo, bibendum eu eros nec, accumsan facilisis velit. Integer cursus sagittis euismod. Nulla quis erat vel neque gravida commodo in at sem. Ut accumsan quam odio, et vehicula velit hendrerit tincidunt. Nunc scelerisque dui vitae enim euismod sagittis. Vivamus nec gravida odio. In lobortis enim non accumsan feugiat.",
+      "credits" : "6",
+      "slug" : "introduction-to-software-engineering",
+      "status" : "active",
+      "title" : "Introduction to Software Engineering"
+    },
+    "-K_PDWdHQPVbiRmR2zgX" : {
+      "code" : "SRM",
+      "content1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula mauris sodales metus sodales, nec pharetra ipsum gravida. Cras malesuada faucibus orci, sit amet sagittis turpis efficitur sed. Aliquam ut dui posuere, vestibulum ex et, posuere diam. Maecenas luctus suscipit turpis id fermentum. Fusce mattis mi erat, nec venenatis ante fringilla id. Aliquam sit amet justo eleifend, varius magna eget, tincidunt velit. Maecenas varius fringilla orci, ut imperdiet odio porta interdum. Aliquam rutrum est id mi pharetra fringilla. Integer vel tempor enim. Maecenas tempus tincidunt neque a eleifend. Suspendisse tempor ante ligula. Maecenas eget ex tortor. Curabitur dapibus dolor eu dapibus ultrices. Curabitur pellentesque massa volutpat, viverra ipsum et, tristique sem. Ut sed ante eu odio iaculis venenatis.\n\nDonec ipsum leo, bibendum eu eros nec, accumsan facilisis velit. Integer cursus sagittis euismod. Nulla quis erat vel neque gravida commodo in at sem. Ut accumsan quam odio, et vehicula velit hendrerit tincidunt. Nunc scelerisque dui vitae enim euismod sagittis. Vivamus nec gravida odio. In lobortis enim non accumsan feugiat.",
+      "credits" : "6",
+      "slug" : "software-requirements-modeling",
+      "status" : "active",
+      "title" : "Software Requirements & Modeling"
+    },
+    "-K_PDaYT5ym17IuJQFcp" : {
+      "code" : "DS",
+      "content1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula mauris sodales metus sodales, nec pharetra ipsum gravida. Cras malesuada faucibus orci, sit amet sagittis turpis efficitur sed. Aliquam ut dui posuere, vestibulum ex et, posuere diam. Maecenas luctus suscipit turpis id fermentum. Fusce mattis mi erat, nec venenatis ante fringilla id. Aliquam sit amet justo eleifend, varius magna eget, tincidunt velit. Maecenas varius fringilla orci, ut imperdiet odio porta interdum. Aliquam rutrum est id mi pharetra fringilla. Integer vel tempor enim. Maecenas tempus tincidunt neque a eleifend. Suspendisse tempor ante ligula. Maecenas eget ex tortor. Curabitur dapibus dolor eu dapibus ultrices. Curabitur pellentesque massa volutpat, viverra ipsum et, tristique sem. Ut sed ante eu odio iaculis venenatis.\n\nDonec ipsum leo, bibendum eu eros nec, accumsan facilisis velit. Integer cursus sagittis euismod. Nulla quis erat vel neque gravida commodo in at sem. Ut accumsan quam odio, et vehicula velit hendrerit tincidunt. Nunc scelerisque dui vitae enim euismod sagittis. Vivamus nec gravida odio. In lobortis enim non accumsan feugiat.",
+      "credits" : "6",
+      "slug" : "data-structures",
+      "status" : "active",
+      "title" : "Data Structures"
+    },
+    "-K_PEDBO5Ti-288FI1j2" : {
+      "code" : "OS",
+      "content1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula mauris sodales metus sodales, nec pharetra ipsum gravida. Cras malesuada faucibus orci, sit amet sagittis turpis efficitur sed. Aliquam ut dui posuere, vestibulum ex et, posuere diam. Maecenas luctus suscipit turpis id fermentum. Fusce mattis mi erat, nec venenatis ante fringilla id. Aliquam sit amet justo eleifend, varius magna eget, tincidunt velit. Maecenas varius fringilla orci, ut imperdiet odio porta interdum. Aliquam rutrum est id mi pharetra fringilla. Integer vel tempor enim. Maecenas tempus tincidunt neque a eleifend. Suspendisse tempor ante ligula. Maecenas eget ex tortor. Curabitur dapibus dolor eu dapibus ultrices. Curabitur pellentesque massa volutpat, viverra ipsum et, tristique sem. Ut sed ante eu odio iaculis venenatis.\n\nDonec ipsum leo, bibendum eu eros nec, accumsan facilisis velit. Integer cursus sagittis euismod. Nulla quis erat vel neque gravida commodo in at sem. Ut accumsan quam odio, et vehicula velit hendrerit tincidunt. Nunc scelerisque dui vitae enim euismod sagittis. Vivamus nec gravida odio. In lobortis enim non accumsan feugiat.",
+      "credits" : "6",
+      "slug" : "operating-systems",
+      "status" : "active",
+      "teachers" : [ "jXV6ugDA2WOAVIoNOlpnncsmp0C2" ],
+      "title" : "Operating Systems"
+    },
+    "-K_PEGgQQYLHhwtA1axa" : {
+      "code" : "CA",
+      "content1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula mauris sodales metus sodales, nec pharetra ipsum gravida. Cras malesuada faucibus orci, sit amet sagittis turpis efficitur sed. Aliquam ut dui posuere, vestibulum ex et, posuere diam. Maecenas luctus suscipit turpis id fermentum. Fusce mattis mi erat, nec venenatis ante fringilla id. Aliquam sit amet justo eleifend, varius magna eget, tincidunt velit. Maecenas varius fringilla orci, ut imperdiet odio porta interdum. Aliquam rutrum est id mi pharetra fringilla. Integer vel tempor enim. Maecenas tempus tincidunt neque a eleifend. Suspendisse tempor ante ligula. Maecenas eget ex tortor. Curabitur dapibus dolor eu dapibus ultrices. Curabitur pellentesque massa volutpat, viverra ipsum et, tristique sem. Ut sed ante eu odio iaculis venenatis.\n\nDonec ipsum leo, bibendum eu eros nec, accumsan facilisis velit. Integer cursus sagittis euismod. Nulla quis erat vel neque gravida commodo in at sem. Ut accumsan quam odio, et vehicula velit hendrerit tincidunt. Nunc scelerisque dui vitae enim euismod sagittis. Vivamus nec gravida odio. In lobortis enim non accumsan feugiat.",
+      "credits" : "6",
+      "slug" : "computer-architecture",
+      "status" : "active",
+      "title" : "Computer Architecture"
+    },
+    "-K_PEJsJ5OgwhIAPKryI" : {
+      "code" : "PL",
+      "content1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula mauris sodales metus sodales, nec pharetra ipsum gravida. Cras malesuada faucibus orci, sit amet sagittis turpis efficitur sed. Aliquam ut dui posuere, vestibulum ex et, posuere diam. Maecenas luctus suscipit turpis id fermentum. Fusce mattis mi erat, nec venenatis ante fringilla id. Aliquam sit amet justo eleifend, varius magna eget, tincidunt velit. Maecenas varius fringilla orci, ut imperdiet odio porta interdum. Aliquam rutrum est id mi pharetra fringilla. Integer vel tempor enim. Maecenas tempus tincidunt neque a eleifend. Suspendisse tempor ante ligula. Maecenas eget ex tortor. Curabitur dapibus dolor eu dapibus ultrices. Curabitur pellentesque massa volutpat, viverra ipsum et, tristique sem. Ut sed ante eu odio iaculis venenatis.\n\nDonec ipsum leo, bibendum eu eros nec, accumsan facilisis velit. Integer cursus sagittis euismod. Nulla quis erat vel neque gravida commodo in at sem. Ut accumsan quam odio, et vehicula velit hendrerit tincidunt. Nunc scelerisque dui vitae enim euismod sagittis. Vivamus nec gravida odio. In lobortis enim non accumsan feugiat.",
+      "credits" : "6",
+      "slug" : "programming-languages",
+      "status" : "active",
+      "title" : "Programming Languages"
+    },
+    "-K_PENmccPL4eLIw2HIk" : {
+      "code" : "HCI",
+      "content1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula mauris sodales metus sodales, nec pharetra ipsum gravida. Cras malesuada faucibus orci, sit amet sagittis turpis efficitur sed. Aliquam ut dui posuere, vestibulum ex et, posuere diam. Maecenas luctus suscipit turpis id fermentum. Fusce mattis mi erat, nec venenatis ante fringilla id. Aliquam sit amet justo eleifend, varius magna eget, tincidunt velit. Maecenas varius fringilla orci, ut imperdiet odio porta interdum. Aliquam rutrum est id mi pharetra fringilla. Integer vel tempor enim. Maecenas tempus tincidunt neque a eleifend. Suspendisse tempor ante ligula. Maecenas eget ex tortor. Curabitur dapibus dolor eu dapibus ultrices. Curabitur pellentesque massa volutpat, viverra ipsum et, tristique sem. Ut sed ante eu odio iaculis venenatis.\n\nDonec ipsum leo, bibendum eu eros nec, accumsan facilisis velit. Integer cursus sagittis euismod. Nulla quis erat vel neque gravida commodo in at sem. Ut accumsan quam odio, et vehicula velit hendrerit tincidunt. Nunc scelerisque dui vitae enim euismod sagittis. Vivamus nec gravida odio. In lobortis enim non accumsan feugiat.",
+      "credits" : "6",
+      "slug" : "human-computer-interaction",
+      "status" : "active",
+      "title" : "Human - Computer Interaction"
+    },
+    "-K_PERFGlB6EDgHucMrH" : {
+      "code" : "DD",
+      "content1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vehicula mauris sodales metus sodales, nec pharetra ipsum gravida. Cras malesuada faucibus orci, sit amet sagittis turpis efficitur sed. Aliquam ut dui posuere, vestibulum ex et, posuere diam. Maecenas luctus suscipit turpis id fermentum. Fusce mattis mi erat, nec venenatis ante fringilla id. Aliquam sit amet justo eleifend, varius magna eget, tincidunt velit. Maecenas varius fringilla orci, ut imperdiet odio porta interdum. Aliquam rutrum est id mi pharetra fringilla. Integer vel tempor enim. Maecenas tempus tincidunt neque a eleifend. Suspendisse tempor ante ligula. Maecenas eget ex tortor. Curabitur dapibus dolor eu dapibus ultrices. Curabitur pellentesque massa volutpat, viverra ipsum et, tristique sem. Ut sed ante eu odio iaculis venenatis.\n\nDonec ipsum leo, bibendum eu eros nec, accumsan facilisis velit. Integer cursus sagittis euismod. Nulla quis erat vel neque gravida commodo in at sem. Ut accumsan quam odio, et vehicula velit hendrerit tincidunt. Nunc scelerisque dui vitae enim euismod sagittis. Vivamus nec gravida odio. In lobortis enim non accumsan feugiat.",
+      "credits" : "6",
+      "slug" : "database-designing",
+      "status" : "active",
+      "title" : "Database Designing"
+    }
+  }
